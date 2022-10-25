@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+    font-family: monospace;
+    font-size: 50px;
+    font-weight: 600;
+    color: rgb(130, 126, 126)
+}
+
+div {
+    text-align: center;
+}

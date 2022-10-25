@@ -1,0 +1,18 @@
+#bear {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+li {
+    color: #f8aa80;
+    font-family: fantasy, cursive, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-family: monospace;
+    font-size: 50px;
+    font-weight: 600;
+    color: rgb(130, 126, 126)
+}
